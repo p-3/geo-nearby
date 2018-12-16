@@ -41,7 +41,7 @@
     "url": "https://github.com/strikeentco/geo-nearby/issues"
   },
   "dependencies": {
-    "ngeohash": "^0.6.0"
+    "ngeohash": "0.6.0"
   },
   "devDependencies": {
     "eslint": "^2.9.0",
